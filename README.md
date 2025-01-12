@@ -5,4 +5,6 @@ Team 2170's object detection models for the 2025 season, REEFSCAPE.
 1. SSD-MobileNet-V2 (Tested) 
 2. YOLOV11 (Untested) 
 
-Only models meant to be run on corals will include the name coral in it.
+Only models meant to be run on google corals will include the name coral in it.
+
+The dataset used can be found [here](https://drive.google.com/file/d/1mPMFYcBChXyd2vIrk4ky4frVzcfRczMf/view?usp=sharing).
